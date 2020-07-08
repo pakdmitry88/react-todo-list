@@ -1,1 +1,2 @@
-<!-- This is TODO APP for dummies -->
+
+Todo List на React!
